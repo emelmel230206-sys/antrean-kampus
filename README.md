@@ -8,7 +8,7 @@ Layanan Antrean Kampus merupakan aplikasi yang dirancang untuk membantu pengelol
 
 | Nama | NIM | GitHub | Peran |
 |---|---|---|---|
-| EMELDA | NIM-DISAMARKAN | emelmel230206-sys | Ketua Tim |
+| EMELDA-git | NIM-DISAMARKAN | emelmel230206-sys | Ketua Tim |
 | MUSTIKO BAYU AJI | NIM-DISAMARKAN | Belum diisi | Anggota |
 | NOVAL ADITYA PANGESTU | NIM-DISAMARKAN | Belum diisi | Anggota |
 | ALDIANSYAH | NIM-DISAMARKAN | Belum diisi | Anggota |
