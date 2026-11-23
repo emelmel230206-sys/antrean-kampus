@@ -26,5 +26,5 @@ Petunjuk menjalankan aplikasi belum tersedia.
 4. Setiap anggota harus memberikan informasi perkembangan pekerjaan.
 5. Perubahan kode harus diperiksa sebelum digabungkan ke branch utama.
 6. Dilarang mengunggah informasi sensitif seperti password, token, dan private key.
-
+- Terverifikasi clone & akses Git oleh miskiah (NIM-DISAMARKAN)
 - NovalAditya083111 (adityapangestu390@gmail.com)
